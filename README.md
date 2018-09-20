@@ -1,5 +1,1 @@
-poemfree-knot
-=============
-todellisuuslakkaaolemasta
 
-oulipocode
